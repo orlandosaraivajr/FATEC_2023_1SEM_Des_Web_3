@@ -1,0 +1,19 @@
+Foi positivo
+============
+
+- Pessoal que não viu python ainda, entendeu
+- Troca de experiência
+- Foi colaborativo
+- Reforçou os conceitos
+- Tempo de cinco minutos
+- Os participantes ficaram tranquilos
+- Terminamos o exercício
+- Guia de Estilo (flake8 )
+- Todos os pilotos entregaram o código funcionando
+
+O que não foi bom
+=================
+
+- Aumentou a pressão na aula de Banco de Dados Não Relacional
+- Nossos visitantes não foram pilotos ( desta vez )
+- O professor Tiago está "inspirado"
