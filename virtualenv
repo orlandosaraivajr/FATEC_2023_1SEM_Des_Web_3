@@ -1,0 +1,29 @@
+No Windows :
+============
+
+pip install virtualenv
+
+Criar e ativar ambiente virtual:
+================================
+virtualenv ambiente1
+ou digite:
+python -m virtualenv ambiente1
+cd ambiente1
+cd Scripts
+activate.bat
+
+
+Instalar pacotes:
+================================
+pip install requests
+pip install ipython
+
+Criar uma "versão"
+====================
+pip freeze
+pip freeze > requirements.txt
+
+Recriando o ambiente
+====================
+
+pip install -r requirements.txt
