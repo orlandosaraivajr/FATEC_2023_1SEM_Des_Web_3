@@ -5,3 +5,9 @@ def natal(request):
         'natal': True
     }
     return render(request, 'natal.html', contexto)
+
+def tiradentes(request):
+    contexto = {
+        'tiradentes': True
+    }
+    return render(request, 'tiradentes.html', contexto)
